@@ -1,6 +1,6 @@
 # DRF Exercises 
 
-Lecturer: Le Van Khanh
+Lecturer: [Le Van Khanh](https://github.com/lekhanhvn)
 
 Author: Tran Thanh Nhan
 
